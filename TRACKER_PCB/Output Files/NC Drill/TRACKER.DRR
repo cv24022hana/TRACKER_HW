@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TRACKER.PcbDoc   22/08/2024  00:07:53
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : TRACKER-RoundHoles.TXT
+ASCII SlotHoles File : TRACKER-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.305mm (12mil)                                           Round             688       PTH        2088.50mm (82.22inch)
+T2      0.4mm (16mil)                                             Round             3         PTH        27.48mm (1.08inch)
+T3      1mm (39mil)                                               Round             81        PTH        503.52mm (19.82inch)
+T4      1mm (39mil)                                               Slot              3         PTH        28.29mm (1.11inch)
+T5      1.6mm (63mil)                                             Round             2         PTH        5.08mm (0.20inch)
+T6      3mm (118mil)                                              Round             6         NPTH       303.40mm (11.94inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              783
+
+Total Processing Time (hh:mm:ss) : 00:00:00

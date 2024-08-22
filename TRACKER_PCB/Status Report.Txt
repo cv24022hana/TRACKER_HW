@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Variant of PCB NIC LoRa 0402] of Project [PCB NIC LoRa 0402.PrjPcb]
+   Generated File[Bill of Materials-PCB NIC LoRa 0402(Variant of PCB NIC LoRa 0402).xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 09:48:15 On 03/11/2022
